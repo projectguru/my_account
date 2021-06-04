@@ -1,7 +1,7 @@
 ---
 name: Suggest a feature or idea
 about: A new feature or idea to improve the website
-title: New feature or idea
+title: Name your new feature or idea
 labels: ''
 assignees: ''
 
