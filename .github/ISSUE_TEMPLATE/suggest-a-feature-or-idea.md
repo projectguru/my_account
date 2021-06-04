@@ -1,7 +1,7 @@
 ---
-name: Feature request
-about: Suggest an idea for the website
-title: Request a new feature or suggest an idea
+name: Suggest a feature or idea
+about: A new feature or idea to improve the website
+title: New feature or idea
 labels: ''
 assignees: ''
 
