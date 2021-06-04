@@ -1,8 +1,8 @@
 ---
 name: Bug or error report
 about: Create a report to help us remove an error or a bug
-title: "[BUG]"
-labels: ''
+title: Which page is it?
+labels: bug
 assignees: ''
 
 ---
